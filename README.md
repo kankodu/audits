@@ -26,7 +26,7 @@ Only critical severity bugs are listed here.
 | Tetu V2               | [Reset share price bug](https://x.com/kankodu/status/1685320718870032384) |  
 | Superform             | Insufficient checks for user arguments              |  
 | Siren Protocol        | Application-specific bug in minterAMM               |  
-| Euler Protocol        | [First deposit bug](https://x.com/kankodu/status/1698992720637997305) |  
+| Euler Finance        | [First deposit bug](https://x.com/kankodu/status/1698992720637997305) |  
 | Yield Protocol        | Vulnerability in their roll process                 |  
 | Silo Finance          | [Infinite Interest rate glitch](https://x.com/kankodu/status/1551861199897505793) |  
 | Balancer V2           | Not public yet             |  
