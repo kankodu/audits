@@ -1,7 +1,7 @@
 
 ## Kankodu's Security Portfolio  
 
-* 48 total paid bug bounties on Immunefi. #18 on the all-time leaderboard on Immunefi.  
+ 48 total paid bug bounties on Immunefi. #18 on the all-time leaderboard on Immunefi.  
 
 ## Audits  
 
@@ -43,3 +43,7 @@ Only critical severity bugs are listed here.
 * [Euler hack postmortem](https://twitter.com/kankodu/status/1698992717089604064)  
 * [MIM hack postmortem](https://twitter.com/kankodu/status/1752581744803680680)  
 * [Inflation attack through stealth donation](https://twitter.com/kankodu/status/1771229163942474096)  
+
+## Contact  
+If you are developing an interesting DeFi protocol and need a security review, DM me on Telegram ([@kankodu](https://t.me/kankodu)) or Twitter ([@kankodu](https://x.com/kankodu)).  
+
