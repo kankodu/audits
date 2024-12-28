@@ -29,7 +29,7 @@ Only critical severity bugs are listed here.
 | Euler Protocol        | [First deposit bug](https://x.com/kankodu/status/1698992720637997305) |  
 | Yield Protocol        | Vulnerability in their roll process                 |  
 | Silo Finance          | [Infinite Interest rate glitch](https://x.com/kankodu/status/1551861199897505793) |  
-| Balancer V2           | Non-existent token handled incorrectly              |  
+| Balancer V2           | Not public yet             |  
 | Interlay Protocol     | [Invalid Invariant Check](https://x.com/kankodu/status/1796122807773904959) |  
 | Connext & Geode Finance | A bug in StableSwap AMM                            |  
 | Exactly Protocol      | Invalid check for insolvency that could have been weaponized |  
