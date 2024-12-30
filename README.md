@@ -1,7 +1,7 @@
 
 ## Kankodu's Security Portfolio  
 
- 48 total paid bug bounties on Immunefi. #18 on the all-time leaderboard on Immunefi.  
+ 48 total paid bug bounties on [Immunefi](https://immunefi.com/profile/kankodu/). #18 on the all-time leaderboard on Immunefi.  
 
 ## Audits  
 
