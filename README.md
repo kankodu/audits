@@ -11,7 +11,7 @@
 - [Royco Protocol](https://cantina.xyz/portfolio/b99b673a-6790-4364-b76b-e8e3202464d2)  
 - [Collar Protocol](https://cantina.xyz/portfolio/5d300ba8-b59a-4b83-a436-56077b2fa4e9) - Solo  
 - [Juice Finance](https://drive.google.com/file/d/1c_UwZvIcb_gnkvkM91RWk0cfMU05xcha/view)  
-- Dahlia Protocol  
+- [Dahlia Protocol](https://cantina.xyz/portfolio/ed6235a0-67c8-4339-a4da-8550f4c0d443)
 
 ## Bug Bounties  
 
