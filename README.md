@@ -38,6 +38,9 @@ Only critical severity bugs are listed here.
 
 ## Public Content  
 
+* [BOUNTYHUNT3RZ Podcast Episode 6](https://zencastr.com/z/AVL4sEVP)
+
+### Twitter threads
 * [Infinite interest rate bug](https://twitter.com/kankodu/status/1669833829203476480)  
 * [Advice for Security Researchers](https://twitter.com/kankodu/status/1676256606110224384)  
 * [Exploiting an edge case in vaults](https://twitter.com/kankodu/status/1685320718870032384)  
