@@ -12,7 +12,10 @@
 - [Collar Protocol](https://cantina.xyz/portfolio/5d300ba8-b59a-4b83-a436-56077b2fa4e9) - Solo  
 - [Juice Finance](https://drive.google.com/file/d/1c_UwZvIcb_gnkvkM91RWk0cfMU05xcha/view)  
 - [Dahlia Protocol](https://cantina.xyz/portfolio/ed6235a0-67c8-4339-a4da-8550f4c0d443)
-- [LI.FI](https://cantina.xyz/portfolio/d83666b6-c6f8-402e-ad1b-d533816d2c07) 
+- [LI.FI](https://cantina.xyz/portfolio/d83666b6-c6f8-402e-ad1b-d533816d2c07)
+- [Alchemix V3](https://cantina.xyz/portfolio/2ab737dc-e131-41a4-8262-063a3a657259)
+- [Beets](https://cantina.xyz/portfolio/88cba69f-63c6-4044-8556-1f320fe96122)
+- [Silo Finance](https://cantina.xyz/portfolio/01da8f41-fa9f-4239-95f5-52d05cd34b8c)
 
 ## Bug Bounties  
 
