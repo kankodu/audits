@@ -17,7 +17,9 @@
 - [Beets](https://cantina.xyz/portfolio/88cba69f-63c6-4044-8556-1f320fe96122)
 - [Silo Finance](https://cantina.xyz/portfolio/01da8f41-fa9f-4239-95f5-52d05cd34b8c)
 - [Yield.xyz](https://cantina.xyz/portfolio/23cf9f2f-5430-4007-9594-3b70ca4b471b)
-- [Sprinter.tech](https://cantina.xyz/portfolio/2a4c73be-7566-4d0b-af12-d94a037c4b01) 
+- [Sprinter.tech](https://cantina.xyz/portfolio/2a4c73be-7566-4d0b-af12-d94a037c4b01)
+- Uniswap X
+- Coinbase 
 
 ## Bug Bounties  
 
