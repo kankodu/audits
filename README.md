@@ -30,7 +30,7 @@ Only critical severity bugs are listed here.
 |-----------------------|------------------------------------------------------|
 | Gearbox               | [Stealth donation attack](https://x.com/kankodu/status/1771229163942474096) |  
 | Saddle Finance        | A bug in StableSwap AMM                             |  
-| Aave v2 AMM Market    | [Price manipulation on GUNI USDC-USDT due to illiquidity](https://governance.aave.com/t/bgd-bug-bounties-proposal/13077#h-4-risk-of-price-manipulation-on-guni-usdcudst-due-to-illiquidity-9) |  
+| Aave v2 AMM Market    | [Price manipulation on GUNI USDC-USDT due to illiquidity](https://governance.aave.com/t/bgd-bug-bounties-proposal/13077#p-30977-h-4-risk-of-price-manipulation-on-guni-usdcudst-due-to-illiquidity-9) |  
 | Liquidswap            | Loss of precision bug                               |  
 | Tetu V2               | [Reset share price bug](https://x.com/kankodu/status/1685320718870032384) |  
 | Superform             | Insufficient checks for user arguments              |  
