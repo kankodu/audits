@@ -19,7 +19,8 @@
 - [Yield.xyz](https://cantina.xyz/portfolio/23cf9f2f-5430-4007-9594-3b70ca4b471b)
 - [Sprinter.tech](https://cantina.xyz/portfolio/2a4c73be-7566-4d0b-af12-d94a037c4b01)
 - Uniswap X
-- Coinbase 
+- Coinbase
+- Qiro Finance
 
 ## Bug Bounties  
 
